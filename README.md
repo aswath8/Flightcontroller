@@ -1,4 +1,6 @@
 # Flightcontroller
 Custom FC with wifi control over UDP
 
-Original source codes: https://www.youtube.com/channel/UCpJ5uKSLxP84TXQtwiRNm1g
+Source code obtained from: http://www.brokking.net/
+
+This repo containes a modified version 
